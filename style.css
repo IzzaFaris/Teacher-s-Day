@@ -1,0 +1,12 @@
+
+body{
+  background: linear-gradient(300deg, 
+    #ffb3b3, #ffd9b3, #ffffb3, #d9ffb3, 
+    #d1e0d1, #b3e6cc, #abb5b5, #b3d9ff, 
+    #b3b3ff, #d9b3ff, #e6d1e6, #ffb3e6);
+  background-size: 240% 240%;
+  animation: gradient-animation 18s ease infinite;
+ 
+   font-family: "Allan", serif;
+}
+
